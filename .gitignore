@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 summary
 model
+examples
 model1
 model-*
 fft-model
